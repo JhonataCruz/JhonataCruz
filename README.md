@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://usagif.com/wp-content/uploads/cat-typing-20.gif"  />
+  <img data-importer="image" height="150" src="https://old.b-young.me/wp-content/uploads/2020/11/giphy-meme-menino-computador.gif"  />
 </div>
 
 ###
