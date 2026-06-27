@@ -54,7 +54,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   Status</h3>
 
 ###
 
