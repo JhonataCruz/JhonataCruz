@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://old.b-young.me/wp-content/uploads/2020/11/giphy-meme-menino-computador.gif"  />
+  <img data-importer="image" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdkeWRzejd5eWQ1ZWRrM2x2c3dtMXliamtmMDk4bWl2cXl2c3ZnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
 
 ###
