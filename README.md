@@ -18,7 +18,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Olá, Mundo! 👋</h1>
+<h1 data-importer="text" align="center">Olá, Mundo!</h1>
 
 ###
 
